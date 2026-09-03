@@ -20,10 +20,12 @@ knowledge_module/
 │   ├── config.py                 # Modular configuration loader
 │   └── models.yaml               # Embeddings and splitter definitions
 ├── data/
-│   ├── raw_articles/             # Raw source documents (e.g., PDFs)
+│   ├── raw_articles/
+│   │   └── articles/             # Raw source documents (e.g., PDFs)
 │   └── vector_db/                # Local ChromaDB persistence directory
 ├── demo/
-│   └── app.py                    # Streamlit visual interface
+│   ├── app.py                    # Streamlit visual interface
+│   └── llm.py                    # LLM instatiation script
 └── src/
     ├── core/
     │   ├── entities.py           # Domain entities (e.g., Document dataclass)
