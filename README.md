@@ -155,9 +155,3 @@ To ensure stability across the monorepo, tests rely on validating the architectu
 * All code, documentation, variables, and commit messages must be strictly in English.
 * Do not instantiate LangChain objects directly inside the domain engines (`rag_engine.py`, `ingestion_manager.py`); strictly use Dependency Injection via the `src.core.interfaces`.
 * When writing tests for the pipeline, use the `hash_ids` enforcement to prevent regression in the chunk duplication protection logic.
-
-## TODO
-
-* Integrate `knowledge_module` into the `OrchestratorResponse.knowledge_refs`.
-* Connect the module to the `rag_query` route in the Interaction Layer.
-* Add specific unit tests validating that `IngestionEngine` properly passes the generated SHA-256 ID list to the `BaseDocumentSaver.save()` method.
