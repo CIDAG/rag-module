@@ -1,0 +1,398 @@
+Ingesting docs at: /home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample
+Ingestion completed!
+Retrieving articles related to the query: 'Upon analyzing the QM9 dataset, what conclusions do the authors draw regarding the lack of direct correlation between polarizability and the HOMO-LUMO energy gap in the context of rational drug design?'
+40 were retrieved:
+
+--- Text 0 ---
+Content: Specifically, when training SMICLR to predict the QM9
+properties under a semisupervised protocol, our model showed
+the lowest error for all different properties. Our best result was
+achieved when pred...
+Metadata: {'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'keywords': '', 'creationdate': '2022-09-01T08:51:26-04:00', 'modDate': "D:20221013130152-07'00'", 'format': 'PDF 1.4', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creationDate': "D:20220901085126-04'00'", 'moddate': '2022-10-13T13:01:52-07:00', 'page': 9, 'total_pages': 13, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'creator': 'Arbortext Publishing Engine', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'trapped': ''}
+
+--- Text 1 ---
+Content: (58) Paszke, A.; Gross, S.; Massa, F.; Lerer, A.; Bradbury, J.; Chanan,
+G.; Killeen, T.; Lin, Z.; Gimelshein, N.; Antiga, L.; Desmaison, A.; Kopf,
+A.; Yang, E.; DeVito, Z.; Raison, M.; Tejani, A.; Chi...
+Metadata: {'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'page': 11, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'creationDate': "D:20220901085126-04'00'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'moddate': '2022-10-13T13:01:52-07:00', 'total_pages': 13, 'trapped': '', 'creationdate': '2022-09-01T08:51:26-04:00', 'format': 'PDF 1.4', 'creator': 'Arbortext Publishing Engine', 'keywords': '', 'modDate': "D:20221013130152-07'00'"}
+
+--- Text 2 ---
+Content: change in the name of JCIM from Journal of Chemical
+Information and Computer Sciences. The increase in the
+percentage of female authors is observed not only for all main
+fields (Figure 2b) but for all...
+Metadata: {'modDate': "D:20240930104649-07'00'", 'creationdate': '2024-02-16T12:05:33-05:00', 'keywords': '', 'page': 2, 'moddate': '2024-09-30T10:46:49-07:00', 'subject': 'J. Chem. Inf. Model. 2024.64:1107-1111', 'format': 'PDF 1.4', 'title': 'The Impact of Interdisciplinary, Gender and Geographic Distributions on the Citation Patterns of the Journal of Chemical Information and Modeling', 'creationDate': "D:20240216120533-05'00'", 'total_pages': 5, 'trapped': '', 'creator': 'Arbortext Publishing Engine', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper4.pdf', 'author': 'Ronaldo C. Prati, Bruno S. M. Rodrigues, Iberis Aragão, Thereza A. Soares, Marcos G. Quiles, and Juarez L. F. Da Silva', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper4.pdf'}
+
+--- Text 3 ---
+Content: atomic SLATM (aSLATM), smooth overlap of ato­
+mic positions (SOAP)60, Faber, Christensen, 
+Huang, Lilienfeld (FCHL)58, message passing node 
+and edge-​based neural network with set-​to-​set 
+readout f...
+Metadata: {'creationDate': "D:20200611162836+05'30'", 'page': 2, 'total_pages': 12, 'author': 'O. Anatole Lilienfeld', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'format': 'PDF 1.4', 'creator': 'Springer', 'creationdate': '2020-06-11T16:28:36+05:30', 'trapped': '', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'title': 'Exploring chemical compound space with quantum-based machine learning', 'modDate': "D:20220406192430Z00'00'", 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'moddate': "D:20220406192430Z00'00'", 'keywords': ''}
+
+--- Text 4 ---
+Content: decompose predicted properties into atomic 
+contributions. For example, computing 
+quantum properties, such as the atomization 
+energy, as a series expansion in select 
+fragments called ‘AM-​ons’ has,...
+Metadata: {'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'moddate': "D:20220406192430Z00'00'", 'title': 'Exploring chemical compound space with quantum-based machine learning', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'page': 0, 'creationDate': "D:20200611162836+05'30'", 'format': 'PDF 1.4', 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'creator': 'Springer', 'creationdate': '2020-06-11T16:28:36+05:30', 'author': 'O. Anatole Lilienfeld', 'total_pages': 12, 'modDate': "D:20220406192430Z00'00'", 'trapped': '', 'keywords': ''}
+
+--- Text 5 ---
+Content: generation have been covered in the detailed overview given by
+Elton and collaborators.37
+Specifically, an RNN is a specialized NN that learns sequence,
+or temporal, dependencies. Consider a sequence ...
+Metadata: {'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'modDate': "D:20221013130152-07'00'", 'creationDate': "D:20220901085126-04'00'", 'page': 2, 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creator': 'Arbortext Publishing Engine', 'keywords': '', 'creationdate': '2022-09-01T08:51:26-04:00', 'total_pages': 13, 'moddate': '2022-10-13T13:01:52-07:00', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'trapped': '', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'format': 'PDF 1.4'}
+
+--- Text 6 ---
+Content: followed by one fully connected layer of width 435. The latent
+space dimension was set to be 56 for all runs. The decoder fed
+into three layers of gated recurrent unit (GRU) networks43
+with hidden dim...
+Metadata: {'trapped': '', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creationdate': '2022-02-18T12:09:36-05:00', 'total_pages': 12, 'modDate': "D:20220406081640-07'00'", 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'moddate': '2022-04-06T08:16:40-07:00', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'page': 3, 'keywords': '', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'format': 'PDF 1.3', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'creationDate': "D:20220218120936-05'00'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf'}
+
+--- Text 7 ---
+Content: worst case was predicting the ϵHOMO, ϵLUMO, and Δϵ, when we
+reduced the error by almost 15% over the purely supervised
+baseline, which still shows an improvement. Moreover, our
+approach shows competit...
+Metadata: {'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'page': 9, 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'modDate': "D:20221013130152-07'00'", 'creator': 'Arbortext Publishing Engine', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'trapped': '', 'total_pages': 13, 'creationdate': '2022-09-01T08:51:26-04:00', 'format': 'PDF 1.4', 'creationDate': "D:20220901085126-04'00'", 'keywords': '', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'moddate': '2022-10-13T13:01:52-07:00'}
+
+--- Text 8 ---
+Content: T(X) × K, where T(X) is the number of productions applied
+in total to generate the output string X and K is the total
+number of production rules in the entire grammar. A deep
+convolutional neural netw...
+Metadata: {'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'creationDate': "D:20220218120936-05'00'", 'modDate': "D:20220406081640-07'00'", 'moddate': '2022-04-06T08:16:40-07:00', 'keywords': '', 'format': 'PDF 1.3', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'total_pages': 12, 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'creationdate': '2022-02-18T12:09:36-05:00', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'trapped': '', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'page': 2}
+
+--- Text 9 ---
+Content: (42) Hopcroft, J.; Ullman, J. Introduction to Automata Theory,
+Languages and Computation; Pearson: 1979.
+(43) Cho, K.; van Merrienboer, B.; Gulcehre, C.; Bahdanau, D.;
+Bougares, F.; Schwenk, H.; Bengi...
+Metadata: {'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'total_pages': 12, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'format': 'PDF 1.3', 'modDate': "D:20220406081640-07'00'", 'page': 11, 'keywords': '', 'trapped': '', 'creationDate': "D:20220218120936-05'00'", 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creationdate': '2022-02-18T12:09:36-05:00', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'moddate': '2022-04-06T08:16:40-07:00'}
+
+--- Text 10 ---
+Content: the current st and the previous hidden state ht−1 of the model
+(i.e., the hidden state from the sequence member that precedes
+st). Here, F(·) is a differentiable function that learns the most
+salient ...
+Metadata: {'creator': 'Arbortext Publishing Engine', 'keywords': '', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'modDate': "D:20221013130152-07'00'", 'page': 2, 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creationdate': '2022-09-01T08:51:26-04:00', 'trapped': '', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'format': 'PDF 1.4', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'total_pages': 13, 'creationDate': "D:20220901085126-04'00'", 'moddate': '2022-10-13T13:01:52-07:00', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning'}
+
+--- Text 11 ---
+Content: lets164. The black X on the left indicates the target 
+value in the ‘QM9 challenge’, in which QML mod-
+els should be developed to reach 1 kcal mol−1 
+(0.043 eV) accuracy on the QM9 data set using 
+onl...
+Metadata: {'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'trapped': '', 'format': 'PDF 1.4', 'modDate': "D:20220406192430Z00'00'", 'moddate': "D:20220406192430Z00'00'", 'creationdate': '2020-06-11T16:28:36+05:30', 'author': 'O. Anatole Lilienfeld', 'keywords': '', 'page': 2, 'total_pages': 12, 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'creationDate': "D:20200611162836+05'30'", 'creator': 'Springer', 'title': 'Exploring chemical compound space with quantum-based machine learning'}
+
+--- Text 12 ---
+Content: given by the following equation:
+3
+3
+∑
+θ ϕ
+=
++
+−
+̂
+=
+x
+N
+y
+y
+( ;
+,
+)
+1
+,
+SGVAE
+i
+n
+i
+i
+0
+2
+(1)
+Here the ﬁrst term in eq 1 is the evidence lower bound
+(ELBO), the loss function of the standard VAE, whi...
+Metadata: {'format': 'PDF 1.3', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'creationdate': '2022-02-18T12:09:36-05:00', 'creationDate': "D:20220218120936-05'00'", 'modDate': "D:20220406081640-07'00'", 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'page': 2, 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'total_pages': 12, 'moddate': '2022-04-06T08:16:40-07:00', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'keywords': '', 'trapped': ''}
+
+--- Text 13 ---
+Content: and a linear output layer.
+4. Finally, a contrastive loss (·) receives the z representation
+of hG and ht from the samples of the mini-batch. This (·)
+aims to change less the NN’s weights when the z
+re...
+Metadata: {'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'moddate': '2022-10-13T13:01:52-07:00', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'trapped': '', 'modDate': "D:20221013130152-07'00'", 'creationdate': '2022-09-01T08:51:26-04:00', 'page': 3, 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'creator': 'Arbortext Publishing Engine', 'creationDate': "D:20220901085126-04'00'", 'keywords': '', 'format': 'PDF 1.4', 'total_pages': 13, 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT'}
+
+--- Text 14 ---
+Content: of the latent space, we ﬁrst encoded a molecule in the latent
+space, generating the vector z0. Following previous implemen-
+tations, two random orthogonal unit vectors, x and y, were
+then generated, d...
+Metadata: {'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'total_pages': 12, 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'creationdate': '2022-02-18T12:09:36-05:00', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'keywords': '', 'creationDate': "D:20220218120936-05'00'", 'moddate': '2022-04-06T08:16:40-07:00', 'modDate': "D:20220406081640-07'00'", 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'format': 'PDF 1.3', 'trapped': '', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'page': 5}
+
+--- Text 15 ---
+Content: journals should also reach and resonate with a wide range of
+authors and readers in the scientific community. However,
+unconscious bias and lack of diversity in editorial boards or
+reviewer pools can ...
+Metadata: {'creator': 'Arbortext Publishing Engine', 'trapped': '', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper4.pdf', 'title': 'The Impact of Interdisciplinary, Gender and Geographic Distributions on the Citation Patterns of the Journal of Chemical Information and Modeling', 'creationDate': "D:20240216120533-05'00'", 'modDate': "D:20240930104649-07'00'", 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper4.pdf', 'format': 'PDF 1.4', 'subject': 'J. Chem. Inf. Model. 2024.64:1107-1111', 'keywords': '', 'total_pages': 5, 'moddate': '2024-09-30T10:46:49-07:00', 'author': 'Ronaldo C. Prati, Bruno S. M. Rodrigues, Iberis Aragão, Thereza A. Soares, Marcos G. Quiles, and Juarez L. F. Da Silva', 'page': 0, 'creationdate': '2024-02-16T12:05:33-05:00'}
+
+--- Text 16 ---
+Content: The GVAE directly incorporates information about the
+structure of discrete data by using a grammar. In this context, a
+formal grammar describes the process of creating a string based
+on the symbols of...
+Metadata: {'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'moddate': '2022-04-06T08:16:40-07:00', 'modDate': "D:20220406081640-07'00'", 'creationDate': "D:20220218120936-05'00'", 'page': 2, 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'format': 'PDF 1.3', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'total_pages': 12, 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'creationdate': '2022-02-18T12:09:36-05:00', 'trapped': '', 'keywords': ''}
+
+--- Text 17 ---
+Content: energies, where the chemical accuracy represents the desired
+target errors for the chemical community.14 This is especially
+remarkable when considering that the GVAE is, in essence, a
+generative model...
+Metadata: {'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'modDate': "D:20220406081640-07'00'", 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'creationdate': '2022-02-18T12:09:36-05:00', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'keywords': '', 'page': 5, 'creationDate': "D:20220218120936-05'00'", 'trapped': '', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'format': 'PDF 1.3', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'total_pages': 12, 'moddate': '2022-04-06T08:16:40-07:00'}
+
+--- Text 18 ---
+Content: solution can only be formally achieved in 
+the limit of an exact representation of the 
+wave function, there is mathematically no 
+other choice for DTNN than to attain an 
+exact representation of the ...
+Metadata: {'author': 'O. Anatole Lilienfeld', 'keywords': '', 'trapped': '', 'page': 6, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'creationdate': '2020-06-11T16:28:36+05:30', 'moddate': "D:20220406192430Z00'00'", 'title': 'Exploring chemical compound space with quantum-based machine learning', 'format': 'PDF 1.4', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'creator': 'Springer', 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'creationDate': "D:20200611162836+05'30'", 'total_pages': 12, 'modDate': "D:20220406192430Z00'00'"}
+
+--- Text 19 ---
+Content: i
+W s
+b
+W h
+b
+(
+)
+t
+si t
+ii
+hi t
+hi
+1
+=
++
++
++
+(1)
+f
+W s
+b
+W h
+b
+(
+)
+t
+sf t
+if
+hf
+t
+hf
+1
+=
++
++
++
+(2)
+g
+W s
+b
+W h
+b
+tanh(
+)
+t
+sg t
+ig
+hg t
+hg
+1
+=
++
++
++
+(3)
+o
+W s
+b
+W h
+b
+(
+)
+t
+so t
+io
+ho t
+ho
+1
+=
++
++
++
+...
+Metadata: {'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'moddate': '2022-10-13T13:01:52-07:00', 'page': 2, 'creationdate': '2022-09-01T08:51:26-04:00', 'format': 'PDF 1.4', 'total_pages': 13, 'creator': 'Arbortext Publishing Engine', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'modDate': "D:20221013130152-07'00'", 'trapped': '', 'creationDate': "D:20220901085126-04'00'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'keywords': '', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning'}
+
+--- Text 20 ---
+Content: predicting energetic, electronic, and thermodynamic properties
+Table 3. Validation Error for Semisupervised Training on Compositions of Augmentations to Predict U0a
+aRows show transformation on the SM...
+Metadata: {'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'moddate': '2022-10-13T13:01:52-07:00', 'format': 'PDF 1.4', 'total_pages': 13, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'trapped': '', 'keywords': '', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creator': 'Arbortext Publishing Engine', 'creationdate': '2022-09-01T08:51:26-04:00', 'creationDate': "D:20220901085126-04'00'", 'page': 7, 'modDate': "D:20221013130152-07'00'", 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning'}
+
+--- Text 21 ---
+Content: Firstly, stability is typically inversely 
+correlated with polarizability — stable 
+molecules are normally thought to have 
+small polarizability127–129. Secondly, the 
+HOMO–LUMO gap is the leading-​or...
+Metadata: {'creationdate': '2020-06-11T16:28:36+05:30', 'total_pages': 12, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'page': 6, 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'modDate': "D:20220406192430Z00'00'", 'title': 'Exploring chemical compound space with quantum-based machine learning', 'creationDate': "D:20200611162836+05'30'", 'format': 'PDF 1.4', 'keywords': '', 'creator': 'Springer', 'author': 'O. Anatole Lilienfeld', 'trapped': '', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'moddate': "D:20220406192430Z00'00'", 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1'}
+
+--- Text 22 ---
+Content: in terms of interesting materials, properties 
+or processes.
+Challenges and outlook
+Although QML has seen tremendous 
+progress over the past few years, many more 
+challenges remain to be addressed. In...
+Metadata: {'creator': 'Springer', 'format': 'PDF 1.4', 'moddate': "D:20220406192430Z00'00'", 'modDate': "D:20220406192430Z00'00'", 'author': 'O. Anatole Lilienfeld', 'trapped': '', 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'keywords': '', 'creationdate': '2020-06-11T16:28:36+05:30', 'creationDate': "D:20200611162836+05'30'", 'total_pages': 12, 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'page': 7, 'title': 'Exploring chemical compound space with quantum-based machine learning'}
+
+--- Text 23 ---
+Content: applications in many fields19,20, including 
+medical diagnostics21–23, particle physics24, 
+bioinformatics25, brain–computer 
+interfaces26, social-​media analysis27, 
+robotics28 and team, social or bo...
+Metadata: {'creator': 'Springer', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'creationdate': '2020-06-11T16:28:36+05:30', 'keywords': '', 'format': 'PDF 1.4', 'modDate': "D:20220406192430Z00'00'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'trapped': '', 'page': 1, 'title': 'Exploring chemical compound space with quantum-based machine learning', 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'total_pages': 12, 'moddate': "D:20220406192430Z00'00'", 'author': 'O. Anatole Lilienfeld', 'creationDate': "D:20200611162836+05'30'", 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1'}
+
+--- Text 24 ---
+Content: the LSTM.
+3. The projection head g(·) component maps the latent
+representation of the previous module into an embedding
+space z. As stated by Chen et al.,5 z led to reduce the loss
+of information in h...
+Metadata: {'moddate': '2022-10-13T13:01:52-07:00', 'modDate': "D:20221013130152-07'00'", 'trapped': '', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'page': 3, 'creationDate': "D:20220901085126-04'00'", 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creator': 'Arbortext Publishing Engine', 'keywords': '', 'creationdate': '2022-09-01T08:51:26-04:00', 'format': 'PDF 1.4', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'total_pages': 13}
+
+--- Text 25 ---
+Content: the QM9 data set, the metrics did not present much disparity
+between the models, both having overall high values of unique
+molecules but a poor performance in validity. The same
+behavior was observed ...
+Metadata: {'creationdate': '2022-02-18T12:09:36-05:00', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'page': 7, 'format': 'PDF 1.3', 'keywords': '', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'creationDate': "D:20220218120936-05'00'", 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'total_pages': 12, 'modDate': "D:20220406081640-07'00'", 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'moddate': '2022-04-06T08:16:40-07:00', 'trapped': ''}
+
+--- Text 26 ---
+Content: molecular data. Specifically, our approach jointly trains a graph
+encoder and an encoder for the simplified molecular-input line-entry
+system (SMILES) string to perform the contrastive learning
+object...
+Metadata: {'creationDate': "D:20220901085126-04'00'", 'moddate': '2022-10-13T13:01:52-07:00', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'format': 'PDF 1.4', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'creator': 'Arbortext Publishing Engine', 'page': 0, 'total_pages': 13, 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'modDate': "D:20221013130152-07'00'", 'creationdate': '2022-09-01T08:51:26-04:00', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'trapped': '', 'keywords': ''}
+
+--- Text 27 ---
+Content: Complete contact information is available at:
+https://pubs.acs.org/10.1021/acs.jcim.1c01573
+Notes
+The authors declare no competing ﬁnancial interest.
+Data and Software Availability. The data and code ...
+Metadata: {'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creationDate': "D:20220218120936-05'00'", 'trapped': '', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'format': 'PDF 1.3', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'moddate': '2022-04-06T08:16:40-07:00', 'keywords': '', 'creationdate': '2022-02-18T12:09:36-05:00', 'modDate': "D:20220406081640-07'00'", 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'page': 10, 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'total_pages': 12}
+
+--- Text 28 ---
+Content: the set of hidden state hv
+t into a feature vector for the entire
+graph, hG.
+h
+R
+h v
+(
+)
+v
+t
+=
+{
+|
+}
+(8)
+Note that Mt(·), Ut(·), and R(·) are functions with learnable
+parameters that assume different ...
+Metadata: {'creator': 'Arbortext Publishing Engine', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'trapped': '', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'moddate': '2022-10-13T13:01:52-07:00', 'total_pages': 13, 'modDate': "D:20221013130152-07'00'", 'creationDate': "D:20220901085126-04'00'", 'format': 'PDF 1.4', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creationdate': '2022-09-01T08:51:26-04:00', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'page': 2, 'keywords': ''}
+
+--- Text 29 ---
+Content: Campus São Carlos. G.A. P. acknowledges financial support
+(Doctoral fellowship) from FAPESP, project 2021/08852-2.
+This study was financed in part by the Brazilian National
+Council for Scientific and...
+Metadata: {'creator': 'Arbortext Publishing Engine', 'format': 'PDF 1.4', 'page': 10, 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'creationdate': '2022-09-01T08:51:26-04:00', 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'trapped': '', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'keywords': '', 'modDate': "D:20221013130152-07'00'", 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'moddate': '2022-10-13T13:01:52-07:00', 'total_pages': 13, 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'creationDate': "D:20220901085126-04'00'"}
+
+--- Text 30 ---
+Content: values, as it would be expected by the changes in latent space
+that are likely to occur as depicted in Figure 3. This is perhaps
+the greatest beneﬁt of incorporating property prediction tasks
+Figure 5...
+Metadata: {'trapped': '', 'moddate': '2022-04-06T08:16:40-07:00', 'keywords': '', 'creationdate': '2022-02-18T12:09:36-05:00', 'page': 5, 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'format': 'PDF 1.3', 'creationDate': "D:20220218120936-05'00'", 'modDate': "D:20220406081640-07'00'", 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'total_pages': 12}
+
+--- Text 31 ---
+Content: neighborhood of the encoded molecule. For each vector in this
+grid we decoded it 100 times and only kept the most
+commonly generated molecule. Figure 5 shows the resulting
+grid of molecules generated ...
+Metadata: {'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'moddate': '2022-04-06T08:16:40-07:00', 'trapped': '', 'creationDate': "D:20220218120936-05'00'", 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'modDate': "D:20220406081640-07'00'", 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'total_pages': 12, 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'format': 'PDF 1.3', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'page': 5, 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'keywords': '', 'creationdate': '2022-02-18T12:09:36-05:00'}
+
+--- Text 32 ---
+Content: that may describe subclusters. Looking carefully at the acyclic
+molecules, we discover that this cluster can be split into at least
+five other subgroups when considering the number of branches
+in the ...
+Metadata: {'page': 6, 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'modDate': "D:20221013130152-07'00'", 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'total_pages': 13, 'trapped': '', 'moddate': '2022-10-13T13:01:52-07:00', 'creationdate': '2022-09-01T08:51:26-04:00', 'keywords': '', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'creator': 'Arbortext Publishing Engine', 'format': 'PDF 1.4', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'creationDate': "D:20220901085126-04'00'"}
+
+--- Text 33 ---
+Content: Figure 3. The dashed black arrows show the location where the sampling occurred and the colored arrows show the range of ϵLUMO values over
+theses locations. All molecules are novel and their predicted...
+Metadata: {'format': 'PDF 1.3', 'moddate': '2022-04-06T08:16:40-07:00', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creationdate': '2022-02-18T12:09:36-05:00', 'modDate': "D:20220406081640-07'00'", 'total_pages': 12, 'keywords': '', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'page': 8, 'creationDate': "D:20220218120936-05'00'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'trapped': ''}
+
+--- Text 34 ---
+Content: (i) the SMILES string and (ii) the molecular graph. The
+SMILES can be produced by describing the molecule based on
+basic syntax rules, whereas the graph can be obtained through
+the conversion of the S...
+Metadata: {'modDate': "D:20221013130152-07'00'", 'creator': 'Arbortext Publishing Engine', 'keywords': '', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'format': 'PDF 1.4', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'total_pages': 13, 'creationDate': "D:20220901085126-04'00'", 'page': 1, 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'trapped': '', 'moddate': '2022-10-13T13:01:52-07:00', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'creationdate': '2022-09-01T08:51:26-04:00', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT'}
+
+--- Text 35 ---
+Content: atoms, namely, fused rings. We also observed a fourth group;
+however, in this case, the structure characteristic is related to
+molecules composed of F atoms.
+Moreover, since there is no single feature...
+Metadata: {'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'creationdate': '2022-09-01T08:51:26-04:00', 'creationDate': "D:20220901085126-04'00'", 'trapped': '', 'keywords': '', 'total_pages': 13, 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'format': 'PDF 1.4', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'page': 5, 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'moddate': '2022-10-13T13:01:52-07:00', 'creator': 'Arbortext Publishing Engine', 'modDate': "D:20221013130152-07'00'", 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning'}
+
+--- Text 36 ---
+Content: Research (BMBF) under grants 01IS14013A-​E, 01GQ1115 
+and 01GQ0850; Deutsche Forschungsgesellschaft (DFG) 
+under grant Math+, EXC 2046/1, project ID 390685689 and 
+by the Institute for Information & C...
+Metadata: {'creator': 'Springer', 'title': 'Exploring chemical compound space with quantum-based machine learning', 'keywords': '', 'page': 11, 'total_pages': 12, 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'producer': 'macOS Version 10.15.7 (Build 19H524) Quartz PDFContext, AppendMode 1.1', 'creationDate': "D:20200611162836+05'30'", 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper1.pdf', 'moddate': "D:20220406192430Z00'00'", 'trapped': '', 'format': 'PDF 1.4', 'subject': 'Nature Reviews Chemistry, doi:10.1038/s41570-020-0189-9', 'creationdate': '2020-06-11T16:28:36+05:30', 'modDate': "D:20220406192430Z00'00'", 'author': 'O. Anatole Lilienfeld'}
+
+--- Text 37 ---
+Content: grammar, every valid discrete object can be described as a
+parse tree from the grammar,28 where a parse tree represents
+the syntactic structure of a string according to the grammar.
+The GVAE encodes a...
+Metadata: {'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'total_pages': 12, 'moddate': '2022-04-06T08:16:40-07:00', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'creationDate': "D:20220218120936-05'00'", 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'format': 'PDF 1.3', 'trapped': '', 'keywords': '', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'modDate': "D:20220406081640-07'00'", 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'page': 2, 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'creationdate': '2022-02-18T12:09:36-05:00'}
+
+--- Text 38 ---
+Content: benzene molecule. The start rule is denoted in orange, and the
+rules that decode to terminals, i.e., each character of the
+SMILES string for the benzene molecule, are all in blue. For
+each input molec...
+Metadata: {'keywords': '', 'modDate': "D:20220406081640-07'00'", 'creator': 'Arbortext Advanced Print Publisher 11.2.5208/W Library-x64', 'trapped': '', 'page': 2, 'moddate': '2022-04-06T08:16:40-07:00', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'producer': 'Acrobat Distiller 8.1.0 (Windows); modified using iText 4.2.0 by 1T3XT', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper3.pdf', 'format': 'PDF 1.3', 'title': 'Molecular Property Prediction and Molecular Design Using a Supervised Grammar Variational Autoencoder', 'subject': 'J. Chem. Inf. Model. 2022.62:817-828', 'author': 'André F. Oliveira, Juarez L. F. Da Silva, and Marcos G. Quiles', 'creationDate': "D:20220218120936-05'00'", 'creationdate': '2022-02-18T12:09:36-05:00', 'total_pages': 12}
+
+--- Text 39 ---
+Content: first define a tokenizer to encode every possible character in the
+data set as a token. Subsequently, given the SMILES, we obtain a
+sequence of tokens from the sequence of characters. This
+sequence of...
+Metadata: {'creationdate': '2022-09-01T08:51:26-04:00', 'creator': 'Arbortext Publishing Engine', 'modDate': "D:20221013130152-07'00'", 'trapped': '', 'producer': 'PDFlib+PDI 9.1.2p4 (C++/Win64); modified using iText 4.2.0 by 1T3XT', 'format': 'PDF 1.4', 'creationDate': "D:20220901085126-04'00'", 'author': 'Gabriel A. Pinheiro, Juarez L. F. Da Silva, and Marcos G. Quiles', 'subject': 'J. Chem. Inf. Model. 2022.62:3948-3960', 'file_path': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'keywords': '', 'title': 'SMICLR: Contrastive Learning on Multiple Molecular Representations for Semisupervised and Unsupervised Representation Learning', 'source': '/home/gabriel/unifesp/CINE/chart_analysis_project/knowledge_module/data/raw_articles/sample/Paper2.pdf', 'moddate': '2022-10-13T13:01:52-07:00', 'total_pages': 13, 'page': 4}

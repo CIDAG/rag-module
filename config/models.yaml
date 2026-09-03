@@ -1,0 +1,10 @@
+# Available embedding models
+# (this yaml structure is temporary)
+models:
+  embedding:
+    model: "all-MiniLM-L6-v2"
+    provider: "huggingface"
+    key: "INSERT API KEY"
+  splitter:
+    chunk_size: 500
+    chunk_overlap: 100
