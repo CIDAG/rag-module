@@ -1,3 +1,50 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+.cursor/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+.env
+.env.*
+
+# Temporary
+*.log
+*.tmp
+.cache/
+.aider*
+
+# Datasets
 vector_db/
+
+# Outputs
 output/
