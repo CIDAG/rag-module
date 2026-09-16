@@ -204,3 +204,15 @@ class BaseDocumentSaver(ABC):
         """
         pass
 ################################################################################
+
+########################## VECTOR DATABASE INTERFACES ##########################
+class BaseEvaluator(ABC):
+    @abstractmethod
+    def calculate(
+        self,
+        query: str,
+        retrieved_docs: list[Document],
+        generated_answer: str,
+        ground_truth: str = None
+    ) -> float:
+        pass
