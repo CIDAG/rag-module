@@ -149,7 +149,7 @@ class Document:
 
 To ensure stability across the monorepo, tests rely on validating the architectural contracts rather than testing third-party tools directly.
 
-* **Contracts Verification**: Ensuring classes properly implement interfaces like `BaseDocumentLoader` and `BaseDocumentSaver` [source: 10].
+* **Contracts Verification**: Ensuring classes properly implement interfaces like `BaseDocumentLoader` and `BaseDocumentSaver`.
 * **Mocking**: The `IngestionEngine` and `RAGEngine` are tested by injecting `Mock` objects (e.g., `Mock(spec=BaseDocumentSaver)`) to ensure the correct data flows through the pipeline without relying on a live vector database or real embedding models.
 
 ## Best Practices
